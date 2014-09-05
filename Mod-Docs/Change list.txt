@@ -1,0 +1,30 @@
+1)	Game now runs in CTF mode.
+2)	Created three classes, Assault, Scout, and Support. Each with two different weapons one item and one ability.
+3)	Each class has different max health and max armor values.
+4)	Character model differs according to class.
+5)	Player now has menu for team and class selection and spawns as soon as class is selected
+6)	Class\team changing requires player to be dead, preventing players from spawning instantly with a different class before being killed.
+7)	New menu for communication also implemented
+8)	The class menu has a new Credits menu.
+9)	Made sure player spawn in the right base according to team
+10)	Made sure player can jump into spectator mode whenever he wants even if it’s from the class menu.
+11)	A count of the number of players playing a certain class is given on the whole and not on the basis of a team.  
+12)	Experience system implemented to count experience gained from kills only unlike previous mod. 
+13)	Three abilities Speed, Cloak and grapple grenade.
+14)	30 exp is needed to use ability if 60 is achieved player can use ability twice and so on
+15)	New hud elements show xp gained in current life and total xp on the top right corner of the screen.
+16)	New hud timers show how long abilities are available for use
+17)	Droppable item for Assault was changed, instead of proximity mine now Assault drops armor each worth 25 armor value.
+18)	All item, weapon and flag\tech spawns have been stopped.
+19)	Items are limited to 5 and do not recharge.
+20)	New bindings tell you player class and team name.
+21)	New sounds for jumping, spawning and weapons. 
+22)	New sounds included for radio.
+23)	New model included for Assault class.
+24)	New particle effects for weapons and abilities
+25)	Prime target was not implemented because it did not suit the gameplay.
+26)	Blaster fires bullets now.
+27)	Gibberator gun (shotgun and supershotgun)-> shoots bloody blaster bolts and spread blood and gibs practically creating a blood screen around the player.
+28)	Machinegun and chaingun have only change effects and machine gun has 0 spread.
+29)	Rocket launcher fire’s projectile rocker with more damage and damage radius.
+30)	Railgun fires bullet shots that are like insta-kill, it also has a scope included.

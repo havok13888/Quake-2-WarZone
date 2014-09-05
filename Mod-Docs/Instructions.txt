@@ -1,0 +1,28 @@
+Requirements –
+Quake 2 updated to the latest version.
+Warning - Might fail to run or crash if not updated. 
+
+Instructions- 
+This is a multiplayer class based mod (Teams)
+Copy all data files to the quake2 to folder eg c:\quake2\
+The game must run in CTF mode. To run the game add the following command to the quake 2 shortcut +set game ctf after quake 2.exe
+Ex c:\quake2\quake2.exe +set game ctf
+Test in a multiplayer environment. 
+New keyboard controls (config.cfg included)
+Q -> Use Ability
+E -> Drop item
+R -> Change weapons
+V -> WarZone radio menu
+P -> Team select menu
+O -> Class select menu
+] or Mouse wheel down -> Menu navigation downwards
+[ or Mouse wheel up -> Menu navigation upwards
+Enter or mouse scroll button -> Select menu selection
+L -> Display team name
+K -> Display class name
+Right mouse button -> zoom feature on railgun
+To change class or team, player must be dead. Team or class changes when alive are not allowed.
+After dying open class or team menu and make required changes.
+
+
+
