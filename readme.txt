@@ -1,4 +1,8 @@
+Mod ReadMe****************************************************************
+Source for WarZone
+Mod can be downloaded here: http://www.moddb.com/games/quake-2/downloads/quake-2-warzone
 
+Original ReadMe***********************************************************
 This is the complete source code for Quake 2, version 3.21, buildable with
 visual C++ 6.0.  The linux version should be buildable, but we haven't
 tested it for the release.
